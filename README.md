@@ -1,4 +1,5 @@
 # 🏋️‍♂️ Workout Recommendation System
+![Workout Logo]()
 
 ## 📌 Overview
 This project is a **Workout Recommendation System** built using **Python** and **Machine Learning techniques**. It uses **KMeans Clustering** and **content-based filtering** to recommend personalized workout plans based on user inputs like **age, weight, height, and BMI**. The project demonstrates how machine learning can be applied to health and fitness domains to provide real-time, user-specific recommendations.
